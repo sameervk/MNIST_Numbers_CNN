@@ -1,4 +1,4 @@
-# MNIST_Numbers_DataSet
+# MNIST_Numbers_CNN
 Training Convolution Neural Networks on MNIST numbers data set
 
   * 2 Convolutional Layers    
